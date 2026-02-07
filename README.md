@@ -1,4 +1,4 @@
-# Dallas Morning News Data Reporter position Assessment
+# Dallas Morning News Data Reporter Assessment
 
 Assessment doc: https://docs.google.com/document/d/1EL3kMQ4TnMNaElMu-WWYtElD_PBviYI58h_Umss4fLk/edit?tab=t.0
 
